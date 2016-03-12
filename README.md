@@ -20,5 +20,5 @@ Make sure to have Swing installed in your computer before compiling.
 
 PLEASE NOTE:
 
-However, the audio (speech) does not get played when run in tux for some reason.
+However, the audio (speech) does not get played when run via SFTP for some reason.
 So please run it locally in a computer in a local Command Line or Terminal to hear the audio when the ‘translate’ button is pressed in the application.
