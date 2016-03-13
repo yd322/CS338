@@ -8,7 +8,7 @@ Translates English words to American Sign Language (ASL) AND Speech at the same 
 
 This application is a Graphical User Interface that is meant to function as an efficient translator when used by partially or fully hearing impaired people. When using this application, a partially hearing impaired individual would be able to even more efficiently comprehend the message of the original source. 
 
-When the ‘Translate’ button is clicked, the Audio (in Speech format) will play, and a video containing the relevant Sign Language gesture will be played simultaneously.
+When the ‘Translate’ button is clicked, the Audio (in Speech format) will play, and a video (borrowed from handspeak.com) containing the relevant Sign Language gesture will be played simultaneously.
 
 
 TO COMPILE AND RUN PROJECT:
